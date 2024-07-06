@@ -1,5 +1,6 @@
 import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
+import React from "react";
 
 const GsapStagger = () => {
   // TODO: Implement the gsap.stagger() method

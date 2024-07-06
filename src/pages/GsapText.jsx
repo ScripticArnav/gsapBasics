@@ -1,5 +1,6 @@
 import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
+import React from "react";
 
 const GsapText = () => {
   // TODO: Implement gsap text animation
